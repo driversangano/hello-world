@@ -1,2 +1,3 @@
 # hello-world
-Learning
+
+This is a little lesson for me about github stuff
